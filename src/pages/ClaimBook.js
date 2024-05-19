@@ -3,7 +3,7 @@ function ClaimBook() {
   return (
     <div className="form_container_contact">
       <div className="form_header">
-        <h1 className="form_title">Libro de Reclamaciones</h1>
+        <h1 className="form_title">Reseñas</h1>
       </div>
       <div className="form_body">
         <div className="form">
@@ -19,7 +19,7 @@ function ClaimBook() {
           </div>
         </div>
         <div className="form">
-          <label className="form_label">Queja:</label>
+          <label className="form_label">Comentario:</label>
           <div className="form_input-ico">
             <i className="fa fa-user form_ico" aria-hidden="true">
               <input
