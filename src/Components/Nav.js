@@ -6,7 +6,7 @@ function NavBarComponent() {
       <Navbar.Brand href="home">Inicio </Navbar.Brand>
       <Navbar.Brand href="contact">Contacto </Navbar.Brand>
       <Navbar.Brand href="about">Acerca de </Navbar.Brand>
-      <Navbar.Brand href="claim">Libro de reclamaciones </Navbar.Brand>
+      <Navbar.Brand href="claim">Reseña de Usuario </Navbar.Brand>
       <Navbar.Brand href="user">Registrar Usuario </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
     </Container>
