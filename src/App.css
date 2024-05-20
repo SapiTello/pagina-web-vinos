@@ -14,7 +14,7 @@
 .form_title{
   color:#ffffff;
   text-align: center;
-  font-size: 120px;
+  font-size: 100px;
   font-family: "Libre Baskerville", serif;
   font-weight: 500;
   font-style: normal;
@@ -22,12 +22,10 @@
 
 .form_body{
   background: url(https://t3.ftcdn.net/jpg/06/53/23/64/360_F_653236458_2Vmbr5zkUccy2WjDCtOeVepaGjkrP7AQ.jpg);
-
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
-  height: 70%;
   
+   
 }
 .form{
 
@@ -68,10 +66,16 @@ font-variation-settings:
   text-align: left;
   color: rgb(91 88 88 );
   padding-left: 40px;
+  border-radius: 10px;
 }
 .form_input_coment{
 width: 700px;
 display: flex;
 align-items: center;
 height: 20vh;
+border-radius: 10px;
+}
+
+.footer{
+  background-color: black;
 }
