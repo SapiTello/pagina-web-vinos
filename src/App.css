@@ -4,7 +4,7 @@
 }
 .form_header{
 
-  background: url(https://estudiaperu.pe/wp-content/uploads/2021/06/Zegel-IPAE.png);
+  background-color:#b7a18f;
   width: 100%;
   height: 150px;
   background-size: cover;
@@ -12,15 +12,16 @@
 }
 
 .form_title{
-  color: white;
-  padding-top: 5%;
-  padding-left: 10%;
-  font-size: 40px;
-  text-shadow: 2px 2px 2px blue;
-}
+  color:#ffffff;
+  text-align: center;
+  font-size: 120px;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 500;
+  font-style: normal;
+  }
 
 .form_body{
-  background-color: rgb(75 75 75 / 25%);
+  background-color: rgba(154, 240, 114, 0.25);
 }
 .form{
 
@@ -28,11 +29,16 @@
   text-align: left;
 }
 .form > .form_label{
-
-  color: rgb(91 88 88);
-  font-size: 20px;
-  font-weight: 800;
-  display: block;
+color: rgb(2, 213, 216);
+font-family: "Open Sans", sans-serif;
+font-optical-sizing: auto;
+font-weight: 20px;
+font-style: normal;
+font-variation-settings:
+    "wdth" 100;
+  
+  
+  
 }
 .form_input-ico{
   width: 100%;
@@ -56,4 +62,10 @@
   text-align: left;
   color: rgb(91 88 88 );
   padding-left: 40px;
+}
+.form_input_coment{
+width: 700px;
+display: flex;
+align-items: center;
+height: 20vh;
 }
