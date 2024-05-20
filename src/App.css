@@ -21,7 +21,13 @@
   }
 
 .form_body{
-  background-color: rgba(154, 240, 114, 0.25);
+  background: url(https://t3.ftcdn.net/jpg/06/53/23/64/360_F_653236458_2Vmbr5zkUccy2WjDCtOeVepaGjkrP7AQ.jpg);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 70%;
+  
 }
 .form{
 
@@ -29,7 +35,7 @@
   text-align: left;
 }
 .form > .form_label{
-color: rgb(2, 213, 216);
+color: black;
 font-family: "Open Sans", sans-serif;
 font-optical-sizing: auto;
 font-weight: 20px;
