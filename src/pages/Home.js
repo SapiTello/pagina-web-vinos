@@ -4,7 +4,7 @@ function Home() {
   return (
     <div className="form_container">
       <div className="form_header">
-        <h1 className="form_title">Page Home</h1>
+        <h1 className="form_title">Pagina de Inicio</h1>
       </div>
       <div className="form_body">
         <li>
