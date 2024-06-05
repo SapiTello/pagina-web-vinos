@@ -1,5 +1,6 @@
-import React, {createContext, useState, useContext } from React;
+import React, { createContext, useState, useContext } from 'react';
 
+// Crear un contexto para el carrito de compras
 const CartContext = createContext();
 
 // Proveedor del contexto del carrito
