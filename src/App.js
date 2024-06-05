@@ -7,6 +7,7 @@ import About from "./pages/About"
 import ClaimBook from "./pages/ClaimBook";
 import NavBarComponent from "./Components/Nav";
 import User from "./pages/User"
+import { CartProvider } from "./context/CartContext";
 function App() {
   return (
     <div className="form_container">
