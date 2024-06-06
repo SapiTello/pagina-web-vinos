@@ -22,7 +22,7 @@ function ClaimBook() {
           </div>
         </div>
         <div className="form">
-          <label className="form_label">Correo:</label>
+          <label className="form_label">Correos:</label>
           <div className="form_input-ico">
             <i className="fa fa-user form_ico" aria-hidden="true">
               <input
