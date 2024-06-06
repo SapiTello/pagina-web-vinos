@@ -5,7 +5,7 @@ function ClaimBook() {
   return (
     <div className="form_container_contact">
       <div className="form_header">
-        <h1 className="form_title">Agregar reseña1</h1>
+        <h1 className="form_title">Agregar reseña</h1>
       </div>
       
       <div className="form_body">
