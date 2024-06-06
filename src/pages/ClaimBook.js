@@ -52,7 +52,7 @@ function ClaimBook() {
         </div>
 
         <div className="form">
-          <label className="form_label">Comentarios varios:</label>
+          <label className="form_label">Comentarios:</label>
           <div className="form_input-ico">
             <i className="fa fa-user form_ico" aria-hidden="true">
               <input className="form_input_coment" id="coment" name="coment"></input>
