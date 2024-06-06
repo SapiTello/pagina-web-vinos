@@ -34,7 +34,7 @@ function ClaimBook() {
           </div>
         </div>
         <div className="form">
-          <label className="form_label">DNI 1:</label>
+          <label className="form_label">DNI:</label>
           <div className="form_input-ico">
             <i className="fa fa-user form_ico" aria-hidden="true">
               <input className="form_input" id="correo" name="correo"></input>
