@@ -6,8 +6,7 @@ const CartPage = () => {
     <div className='form_container_contact'>
         <div className='form_header'>
             <h1 className='form_title'>Carrito de Compras</h1>
-        </div>
-      
+        </div>      
       <Cart />
     </div>
   );
